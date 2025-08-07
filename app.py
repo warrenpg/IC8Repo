@@ -35,7 +35,7 @@ def get_chocolates():
     return jsonify(chocolates)
 
 @app.route('/secondapi', methods=['GET'])
-def get_chocolates():
+def popular_chocolates():
     return "Still in Progress"
 
 if __name__ == '__main__':
