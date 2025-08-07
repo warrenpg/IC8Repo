@@ -26,7 +26,7 @@ chocolates = [
     {
         "name": "Aged Chocolate",
         "image": "https://m.media-amazon.com/images/I/61-pg5u+9pL.jpg",
-        "price": 60.49
+        "price": 12226.49
     }
 ]
 
